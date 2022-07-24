@@ -11,7 +11,7 @@ This section is focused on narration.  Tips for directors, engineers, post-produ
 	* Book at lectern
 	* GO off axis to see indicators
 
-* Read Punctuation
+* Read Punctuation.  Ride the puases.  Preread page flips.
 
 * Use hardcopy, take notes.
 
