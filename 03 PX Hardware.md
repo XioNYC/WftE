@@ -23,24 +23,3 @@ Anything capable of 1MB/s.
 * Sony MDR-ZX110
 
 	**Do not use "open" headphones, earbuds, or bluetooth headsets**
-
-	* Feedback
-	* Latency
-
-## Software
-* [APH Studio Recorder](https://www.aph.org/product/studio-recorder-software-digital-download/)
-* [Hindenburg Audio Book Creator](https://hindenburg.com/products/hindenburg-abc)*
-* [Audacity](https://www.audacityteam.org/)
-* [Sound eXchange](http://sox.sourceforge.net/)
-
-## Talent
-
-* Narrator(s)
-
-* Engineer
-
-* Director
-
-**Do not fill more than two roles during recording**
-
-* Quality Control
